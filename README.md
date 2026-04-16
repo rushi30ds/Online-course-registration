@@ -179,12 +179,11 @@ password_hash() and password_verify()
 ---
 
 ## 👨‍💻 Author
-
+**Arnav Choudhary **
+**Shivam Kedar**
 **Rushikesh Khedekar**
+**Aayush  Jha**
 BCA Final Year Project
 
 ---
 
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
